@@ -1,0 +1,34 @@
+feature,description,unit,group
+birth_count,Number of births per year,count,Socio-economic
+employed_population,Total employed population,count,Socio-economic
+gdp_per_capita,GDP per capita,som,Socio-economic
+monthly_salary,Average monthly salary,som,Socio-economic
+unemployment_rate,Unemployment rate,%,Socio-economic
+industrial_production,Industrial production output,som,Socio-economic
+inst_preschool,Number of preschool institutions,count,Institutions
+inst_general_school,Number of general education schools,count,Institutions
+inst_elementary,Number of elementary schools (grades 1–4),count,Institutions
+inst_junior,Number of lower secondary schools (grades 5–9),count,Institutions
+inst_high,Number of upper secondary schools (grades 10–11),count,Institutions
+inst_special_needs,Number of institutions for students with special needs,count,Institutions
+inst_vocational,Number of vocational schools,count,Institutions
+inst_secondary_special,Number of secondary specialized institutions,count,Institutions
+inst_higher,Number of higher education institutions (universities),count,Institutions
+teachers_preschool,Number of preschool teachers,count,Teachers
+teachers_general_school,Number of teachers in general schools,count,Teachers
+teachers_special_needs,Number of teachers in special needs institutions,count,Teachers
+teachers_vocational,Number of vocational education teachers,count,Teachers
+teachers_secondary_special,Number of teachers in secondary specialized institutions,count,Teachers
+teachers_higher,Number of university teachers,count,Teachers
+grad_secondary_9,Number of graduates of grade 9,count,Graduates
+grad_secondary_11,Number of graduates of grade 11,count,Graduates
+grad_vocational,Number of vocational program graduates,count,Graduates
+grad_secondary_special,Number of graduates of secondary specialized institutions,count,Graduates
+grad_higher,Number of higher education graduates,count,Graduates
+edu_exp_preschool,State budget expenditures on preschool education,som,Education Expenditure
+edu_exp_secondary,State budget expenditures on secondary education,som,Education Expenditure
+edu_exp_higher,State budget expenditures on higher education,som,Education Expenditure
+inst_total,Total number of educational institutions across all levels,count,Aggregated
+teachers_total,Total number of teachers across all institution types,count,Aggregated
+grad_total,Total number of graduates across all education levels,count,Aggregated
+edu_exp_total,Total state budget expenditures on education,som,Aggregated
